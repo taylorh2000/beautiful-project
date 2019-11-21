@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List of Common Primates:
+title:List of Common Primates:
 ---
 
 Rhesus monkey
