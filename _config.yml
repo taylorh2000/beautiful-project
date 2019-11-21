@@ -31,7 +31,6 @@ navbar-links:
   PGR:
     - What is this gene?: "getstarted"
     - Sequence: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   GDF15:
     - What is this gene?: "md-example"
     - Sequence: "html-example"
