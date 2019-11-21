@@ -28,12 +28,11 @@ description: "The goal of this project is to examine how morning sickness arises
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
+  PGR:
     - Getting started: "getstarted"
     - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-    - My visualization "viz"
-  Example pages:
+  GDF15:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
