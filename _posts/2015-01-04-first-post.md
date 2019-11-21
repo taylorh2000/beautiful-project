@@ -1,6 +1,8 @@
 ---
 layout: post
-title: First post!
+title: List of Common Primates:
 ---
 
-This is my first post, how exciting!
+Rhesus monkey
+Chimpanzee
+White-tufted-ear marmoset
