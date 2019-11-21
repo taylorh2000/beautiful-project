@@ -29,12 +29,12 @@ description: "The goal of this project is to examine how morning sickness arises
 navbar-links:
   Home: ""
   PGR:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
+    - What is this gene?: "getstarted"
+    - Sequence: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   GDF15:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
+    - What is this gene?: "md-example"
+    - Sequence: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
