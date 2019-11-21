@@ -29,7 +29,7 @@ description: "The goal of this project is to examine how morning sickness arises
 navbar-links:
   Home: ""
   PGR:
-    - What is this gene?: "getstarted"
+    - What is this gene?: "Progesterone Receptor"
     - Sequence: "featured-users"
   GDF15:
     - What is this gene?: "md-example"
